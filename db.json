@@ -2101,7 +2101,9 @@
       "role": "user"
     }
   ],
-  "total": 208,
-  "skip": 0,
-  "limit": 30
+"meta": {
+    "total": 208,
+    "skip": 0,
+    "limit": 30
+  }
 }
